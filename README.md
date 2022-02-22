@@ -1,3 +1,4 @@
+[![Build Status](https://baard-el.visualstudio.com/MyFirstPipeline/_apis/build/status/lunbaa.pipelines-java?branchName=master)](https://baard-el.visualstudio.com/MyFirstPipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
